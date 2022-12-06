@@ -34,4 +34,8 @@
     <dimen name="config_rounded_mask_size">136px</dimen>
     <dimen name="config_rounded_mask_size_top">136px</dimen>
     <dimen name="config_rounded_mask_size_bottom">136px</dimen>
+    
+    <!--  Blur radius on status bar window and power menu  -->
+    <dimen name="max_window_blur_radius">50px</dimen>
+
 </resources>
