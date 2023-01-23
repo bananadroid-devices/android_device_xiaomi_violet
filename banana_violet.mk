@@ -11,6 +11,9 @@ $(call inherit-product, device/xiaomi/violet/device.mk)
 # Inherit some common BananaDroid stuff
 $(call inherit-product, vendor/banana/config/common.mk)
 
+# Sony Dolby
+$(call inherit-product, vendor/dolby/config.mk)
+
 # MiuiCamera
 $(call inherit-product, vendor/MiuiCamera/config.mk)
 
